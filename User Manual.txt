@@ -1,0 +1,9 @@
+Assignment 2 User Manual
+
+Follow the steps below to use the program:
+
+1.	Extract the contents of the PA-2 zipped folder into a desired location.
+2.	Open the terminal and navigate to the folder location.
+3.	Enter the command "./run" and a new window will popup with a silhouette image of a bunny.
+4.	Hit the keys 1-4 for a different background.
+5.	You can just close the window when you are done.
